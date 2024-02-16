@@ -57,21 +57,18 @@ main{
     background-color: lightgray;
     padding-bottom: 150px;
 }
-img{
-    margin: 0;
-    margin-top: 10px;
+.main_content_image{
+    margin-top: 5px;
     background-color: yellow;
-    padding-bottom: 350px;
-    
+    padding-bottom: 380px;
 }
 .c{
+    margin-top: 5px;
     display: grid;
     grid-template-columns: auto;
     background-color: sandybrown;
     gap: 5px;
 }
 .footer{
-    display: grid;
-    grid-template-columns: auto;
-    background-color: gray;
+ background-color: gray;
 }
