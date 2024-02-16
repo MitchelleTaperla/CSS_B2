@@ -62,13 +62,30 @@ main{
     background-color: yellow;
     padding-bottom: 380px;
 }
-.c{
+.side_bar{
     margin-top: 5px;
     display: grid;
     grid-template-columns: auto;
     background-color: sandybrown;
-    gap: 5px;
+    height: 200px;
 }
-.footer{
- background-color: gray;
+.ads{
+    gap: 5px;
+    display: grid;
+    grid-template-columns: auto;
+    background-color: green;
+    height: 200px;
+}
+.other_stuff{
+    gap: 5px;
+    display: grid;
+    grid-template-columns: auto;
+    background-color: violet;
+   height: 200px;
+}
+footer{
+    display: grid;
+    background-color: gray;
+    
+
 }
