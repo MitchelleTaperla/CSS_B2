@@ -10,7 +10,7 @@ header{
 header h2{
     background-color: rgb(235, 214, 26);
     padding: 0px;
-   margin: 0;
+    margin: 0;
 }
 header nav ul{
     margin: 0;
@@ -49,43 +49,44 @@ main{
     margin: 0;
     padding: 0;
     background-color:lightgreen;
-    padding-bottom: 500px;
+    height: 600px;
     
 }
 .main_content{
     margin: 0;
     background-color: lightgray;
-    padding-bottom: 150px;
+    height: 150px;
 }
 .main_content_image{
     margin-top: 5px;
     background-color: yellow;
-    padding-bottom: 380px;
+    height: 450px;
 }
 .side_bar{
     margin-top: 5px;
     display: grid;
     grid-template-columns: auto;
     background-color: sandybrown;
-    height: 200px;
+    height: 220px;
 }
 .ads{
-    gap: 5px;
+    margin-top: 5px;
     display: grid;
     grid-template-columns: auto;
     background-color: green;
-    height: 200px;
+    height: 220px;
 }
 .other_stuff{
-    gap: 5px;
+    margin-top: 5px;
     display: grid;
     grid-template-columns: auto;
     background-color: violet;
-   height: 200px;
+    height: 220px;
 }
 footer{
+    margin-top: 5px;
     display: grid;
     background-color: gray;
-    
+
 
 }
